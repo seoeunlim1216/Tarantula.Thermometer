@@ -4,3 +4,6 @@ One day I noticed a problem, I had gotten my two curly hair tarantulas late last
 This project was my solution, I would make a tarantula shaped thermometer with probes so I could stick them into the soil to measure the temperature. The probe will measure the temperature, and the results will show up on the screen in Celcius.
 
 Link to OnShape: https://cad.onshape.com/documents/4c8af119e381d9aa6e4fad86/w/6907f38fece5a0053a1a0f3a/e/8a8e1bdd58fe5413ebab58c7
+
+Zine:
+![alt text](https://github.com/seoeunlim1216/Tarantula.Thermometer/blob/main/TARANTULA%20PROBE%20ZINE.png)
